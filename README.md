@@ -27,8 +27,13 @@ Statistical Analysis: Summary statistics and visualization of homology patterns
 
 Cross-Platform Compatibility: Works on macOS, Linux, and Google Colab
 
-Summary Statistics:
-   Average E-value: 5.59e-25
-   Average Identity: 81.24%
-   Best Identity: 100.00%
-   Best E-value: 0.00e+00
+   Summary Statistics:
+   
+      Average E-value: 5.59e-25
+      
+      Average Identity: 81.24%
+      
+      Best Identity: 100.00%
+      
+      Best E-value: 0.00e+00
+   
